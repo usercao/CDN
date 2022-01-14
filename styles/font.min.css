@@ -1,3 +1,27 @@
+@font-face {
+  font-family: "MexoPlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN/fonts/MexoPlex-Regular.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "MexoPlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN/fonts/MexoPlex-Medium.woff2")
+    format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "MexoPlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN/fonts/MexoPlex-SemiBold.woff2")
+    format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
 body {
   font-family: MexoPlex, Arial, sans-serif !important;
 }
