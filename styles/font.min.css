@@ -1,24 +1,31 @@
+/* font */
 @font-face {
-  font-family: "MexoPlex";
-  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/MexoPlex-Regular.woff2")
+  font-family: "BinancePlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/BinancePlex-Regular.woff2")
     format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "MexoPlex";
-  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/MexoPlex-Medium.woff2")
+  font-family: "BinancePlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/BinancePlex-Medium.woff2")
     format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "MexoPlex";
-  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/MexoPlex-SemiBold.woff2")
+  font-family: "BinancePlex";
+  src: url("https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.3/fonts/BinancePlex-SemiBold.woff2")
     format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
+}
+/* base */
+body,
+input,
+button {
+  font-family: BinancePlex, Arial, sans-serif !important;
 }
