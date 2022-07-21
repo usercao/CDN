@@ -1,21 +1,21 @@
 /* font */
 @font-face {
   font-family: 'TrubitPlex';
-  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.8/fonts/TrubitPlex-Regular.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.9/fonts/TrubitPlex-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'TrubitPlex';
-  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.8/fonts/TrubitPlex-Medium.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.9/fonts/TrubitPlex-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'TrubitPlex';
-  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.8/fonts/TrubitPlex-SemiBold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/usercao/CDN@0.0.9/fonts/TrubitPlex-SemiBold.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
   font-display: block;
